@@ -347,7 +347,7 @@
     "type": "string",
     "description": "Seller street address",
     "fillRate": 99,
-    "premium": false
+    "premium": true
   },
   {
     "name": "sellerCity",
@@ -382,28 +382,28 @@
     "type": "float",
     "description": "Seller location latitude",
     "fillRate": 99,
-    "premium": false
+    "premium": true
   },
   {
     "name": "sellerLongitude",
     "type": "float",
     "description": "Seller location longitude",
     "fillRate": 99,
-    "premium": false
+    "premium": true
   },
   {
     "name": "sellerPhone",
     "type": "string",
     "description": "Seller phone number",
     "fillRate": 88,
-    "premium": false
+    "premium": true
   },
   {
     "name": "sellerPhoneSMS",
     "type": "string",
     "description": "Seller SMS phone number",
     "fillRate": 85,
-    "premium": false
+    "premium": true
   },
   {
     "name": "sellerWebsite",

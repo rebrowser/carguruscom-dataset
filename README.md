@@ -77,15 +77,15 @@ Sample of U.S. CarGurus.com vehicle listings with deal ratings, specs, mileage, 
 | `sellerId` | `float` | 100% | CarGurus.com seller/dealer ID |
 | `sellerType` | `string` | 100% | Seller type (e.g., DEALER) |
 | `sellerName` 🔒 | `string` | 100% | Dealer/seller name |
-| `sellerStreet` | `string` | 99% | Seller street address |
+| `sellerStreet` 🔒 | `string` | 99% | Seller street address |
 | `sellerCity` | `string` | 99% | Seller city |
 | `sellerState` | `string` | 99% | Seller state (2-letter code) |
 | `sellerPostalCode` | `string` | 99% | Seller postal code |
 | `sellerCountry` | `string` | 99% | Seller country (e.g., US) |
-| `sellerLatitude` | `float` | 99% | Seller location latitude |
-| `sellerLongitude` | `float` | 99% | Seller location longitude |
-| `sellerPhone` | `string` | 88% | Seller phone number |
-| `sellerPhoneSMS` | `string` | 85% | Seller SMS phone number |
+| `sellerLatitude` 🔒 | `float` | 99% | Seller location latitude |
+| `sellerLongitude` 🔒 | `float` | 99% | Seller location longitude |
+| `sellerPhone` 🔒 | `string` | 88% | Seller phone number |
+| `sellerPhoneSMS` 🔒 | `string` | 85% | Seller SMS phone number |
 | `sellerWebsite` 🔒 | `string` | 100% | Seller website domain |
 | `isFranchiseDealer` | `bool` | 61% | Whether seller is a franchise dealer |
 | `sellerSalesStatus` | `string` | 100% | Seller sales status (PAYING, AVAILABLE) |
@@ -331,6 +331,6 @@ Commercial use requires a paid license — see [pricing](https://rebrowser.net/p
 Rebrowser is an independent data provider and is not affiliated with, endorsed by, or sponsored by CarGurus.com (US). Any trademarks are the property of their respective owners. This dataset is compiled from publicly available information; we do not request or collect CarGurus.com (US) user credentials. By using this dataset, you agree to comply with CarGurus.com (US)'s Terms of Service and all applicable laws and regulations. Images, logos, descriptions, and other materials included in this dataset remain the intellectual property of their respective owners and are provided solely for informational purposes. Rebrowser makes no warranties regarding the accuracy, completeness, or legality of the data and assumes no liability for how the data is used. You are solely responsible for ensuring that your use of this dataset does not infringe on the rights of any third party.
 
 
-You can also find this data on [Kaggle](https://www.kaggle.com/datasets/rebrowser/carguruscom-dataset), [HuggingFace](https://huggingface.co/datasets/rebrowser/carguruscom-dataset).
+You can also find this data on [Kaggle](https://www.kaggle.com/datasets/rebrowser/carguruscom-dataset), [HuggingFace](https://huggingface.co/datasets/rebrowser/carguruscom-dataset), [Zenodo](https://doi.org/10.5281/zenodo.18716193).
 
 
