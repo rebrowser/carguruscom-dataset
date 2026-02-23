@@ -206,28 +206,28 @@
     "name": "description",
     "type": "string",
     "description": "Full listing description text",
-    "fillRate": 96,
+    "fillRate": 97,
     "premium": false
   },
   {
     "name": "options",
     "type": "array",
     "description": "Array of vehicle options/features",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": false
   },
   {
     "name": "images",
     "type": "array",
     "description": "Array of highest resolution image URLs",
-    "fillRate": 82,
+    "fillRate": 81,
     "premium": true
   },
   {
     "name": "imagesCount",
     "type": "float",
     "description": "Number of listing images",
-    "fillRate": 82,
+    "fillRate": 81,
     "premium": false
   },
   {
@@ -269,7 +269,7 @@
     "name": "optionsCount",
     "type": "float",
     "description": "Number of options/features listed",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": false
   },
   {
