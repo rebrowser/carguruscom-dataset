@@ -59,7 +59,7 @@
     "name": "dealScore",
     "type": "float",
     "description": "CarGurus.com deal score (lower = better deal)",
-    "fillRate": 80,
+    "fillRate": 79,
     "premium": true
   },
   {
