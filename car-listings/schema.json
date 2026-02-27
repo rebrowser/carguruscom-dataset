@@ -248,7 +248,7 @@
     "name": "accidentCount",
     "type": "float",
     "description": "Number of accidents in vehicle history (0-5)",
-    "fillRate": 92,
+    "fillRate": 91,
     "premium": false
   },
   {
@@ -402,7 +402,7 @@
     "name": "sellerPhoneSMS",
     "type": "string",
     "description": "Seller SMS phone number",
-    "fillRate": 85,
+    "fillRate": 86,
     "premium": true
   },
   {
