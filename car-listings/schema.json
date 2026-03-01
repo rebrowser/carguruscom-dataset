@@ -255,7 +255,7 @@
     "name": "ownerCount",
     "type": "float",
     "description": "Number of previous owners (1-5)",
-    "fillRate": 90,
+    "fillRate": 89,
     "premium": false
   },
   {
