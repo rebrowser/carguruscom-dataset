@@ -38,7 +38,7 @@
     "name": "price",
     "type": "float",
     "description": "Listed price in USD",
-    "fillRate": 87,
+    "fillRate": 86,
     "premium": true
   },
   {
@@ -143,7 +143,7 @@
     "name": "transmission",
     "type": "string",
     "description": "Transmission type (e.g., 8-Speed Automatic, Continuously Variable Transmission)",
-    "fillRate": 98,
+    "fillRate": 97,
     "premium": false
   },
   {
@@ -220,14 +220,14 @@
     "name": "images",
     "type": "array",
     "description": "Array of highest resolution image URLs",
-    "fillRate": 81,
+    "fillRate": 80,
     "premium": true
   },
   {
     "name": "imagesCount",
     "type": "float",
     "description": "Number of listing images",
-    "fillRate": 81,
+    "fillRate": 80,
     "premium": false
   },
   {
@@ -262,7 +262,7 @@
     "name": "hasVehicleHistoryReport",
     "type": "bool",
     "description": "Whether vehicle history report is available",
-    "fillRate": 92,
+    "fillRate": 91,
     "premium": false
   },
   {
@@ -276,14 +276,14 @@
     "name": "highLeverage",
     "type": "bool",
     "description": "Whether listing is flagged as high leverage",
-    "fillRate": 25,
+    "fillRate": 24,
     "premium": false
   },
   {
     "name": "isNationwideShipper",
     "type": "bool",
     "description": "Whether dealer ships nationwide",
-    "fillRate": 20,
+    "fillRate": 19,
     "premium": false
   },
   {
@@ -346,49 +346,49 @@
     "name": "sellerStreet",
     "type": "string",
     "description": "Seller street address",
-    "fillRate": 99,
+    "fillRate": 98,
     "premium": true
   },
   {
     "name": "sellerCity",
     "type": "string",
     "description": "Seller city",
-    "fillRate": 99,
+    "fillRate": 98,
     "premium": false
   },
   {
     "name": "sellerState",
     "type": "string",
     "description": "Seller state (2-letter code)",
-    "fillRate": 99,
+    "fillRate": 98,
     "premium": false
   },
   {
     "name": "sellerPostalCode",
     "type": "string",
     "description": "Seller postal code",
-    "fillRate": 99,
+    "fillRate": 98,
     "premium": false
   },
   {
     "name": "sellerCountry",
     "type": "string",
     "description": "Seller country (e.g., US)",
-    "fillRate": 99,
+    "fillRate": 98,
     "premium": false
   },
   {
     "name": "sellerLatitude",
     "type": "float",
     "description": "Seller location latitude",
-    "fillRate": 99,
+    "fillRate": 98,
     "premium": true
   },
   {
     "name": "sellerLongitude",
     "type": "float",
     "description": "Seller location longitude",
-    "fillRate": 99,
+    "fillRate": 98,
     "premium": true
   },
   {
