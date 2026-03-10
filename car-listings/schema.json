@@ -143,7 +143,7 @@
     "name": "transmission",
     "type": "string",
     "description": "Transmission type (e.g., 8-Speed Automatic, Continuously Variable Transmission)",
-    "fillRate": 97,
+    "fillRate": 98,
     "premium": false
   },
   {
