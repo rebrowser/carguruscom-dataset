@@ -220,14 +220,14 @@
     "name": "images",
     "type": "array",
     "description": "Array of highest resolution image URLs",
-    "fillRate": 80,
+    "fillRate": 79,
     "premium": true
   },
   {
     "name": "imagesCount",
     "type": "float",
     "description": "Number of listing images",
-    "fillRate": 80,
+    "fillRate": 79,
     "premium": false
   },
   {
