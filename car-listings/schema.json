@@ -220,14 +220,14 @@
     "name": "images",
     "type": "array",
     "description": "Array of highest resolution image URLs",
-    "fillRate": 79,
+    "fillRate": 78,
     "premium": true
   },
   {
     "name": "imagesCount",
     "type": "float",
     "description": "Number of listing images",
-    "fillRate": 79,
+    "fillRate": 78,
     "premium": false
   },
   {
@@ -248,14 +248,14 @@
     "name": "accidentCount",
     "type": "float",
     "description": "Number of accidents in vehicle history (0-5)",
-    "fillRate": 91,
+    "fillRate": 90,
     "premium": false
   },
   {
     "name": "ownerCount",
     "type": "float",
     "description": "Number of previous owners (1-5)",
-    "fillRate": 89,
+    "fillRate": 88,
     "premium": false
   },
   {
@@ -276,7 +276,7 @@
     "name": "highLeverage",
     "type": "bool",
     "description": "Whether listing is flagged as high leverage",
-    "fillRate": 24,
+    "fillRate": 23,
     "premium": false
   },
   {
