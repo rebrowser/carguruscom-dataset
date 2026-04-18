@@ -213,7 +213,7 @@
     "name": "options",
     "type": "array",
     "description": "Array of vehicle options/features",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": false
   },
   {
@@ -269,14 +269,14 @@
     "name": "optionsCount",
     "type": "float",
     "description": "Number of options/features listed",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": false
   },
   {
     "name": "highLeverage",
     "type": "bool",
     "description": "Whether listing is flagged as high leverage",
-    "fillRate": 22,
+    "fillRate": 23,
     "premium": false
   },
   {
