@@ -150,7 +150,7 @@
     "name": "drivetrain",
     "type": "string",
     "description": "Drivetrain (Four-Wheel Drive, Front-Wheel Drive, Rear-Wheel Drive, All-Wheel Drive, 4X2)",
-    "fillRate": 97,
+    "fillRate": 98,
     "premium": false
   },
   {
@@ -220,14 +220,14 @@
     "name": "images",
     "type": "array",
     "description": "Array of highest resolution image URLs",
-    "fillRate": 78,
+    "fillRate": 79,
     "premium": true
   },
   {
     "name": "imagesCount",
     "type": "float",
     "description": "Number of listing images",
-    "fillRate": 78,
+    "fillRate": 79,
     "premium": false
   },
   {
