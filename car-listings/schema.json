@@ -199,7 +199,7 @@
     "name": "numberOfDoors",
     "type": "string",
     "description": "Number of doors (2 doors, 3 doors, 4 doors)",
-    "fillRate": 97,
+    "fillRate": 98,
     "premium": false
   },
   {
@@ -248,14 +248,14 @@
     "name": "accidentCount",
     "type": "float",
     "description": "Number of accidents in vehicle history (0-5)",
-    "fillRate": 90,
+    "fillRate": 91,
     "premium": false
   },
   {
     "name": "ownerCount",
     "type": "float",
     "description": "Number of previous owners (1-5)",
-    "fillRate": 88,
+    "fillRate": 89,
     "premium": false
   },
   {
