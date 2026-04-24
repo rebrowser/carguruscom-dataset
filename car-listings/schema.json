@@ -276,7 +276,7 @@
     "name": "highLeverage",
     "type": "bool",
     "description": "Whether listing is flagged as high leverage",
-    "fillRate": 23,
+    "fillRate": 22,
     "premium": false
   },
   {
