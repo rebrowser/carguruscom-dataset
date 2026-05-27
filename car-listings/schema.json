@@ -38,7 +38,7 @@
     "name": "price",
     "type": "float",
     "description": "Listed price in USD",
-    "fillRate": 86,
+    "fillRate": 87,
     "premium": true
   },
   {
@@ -52,14 +52,14 @@
     "name": "priceDifferential",
     "type": "float",
     "description": "Difference between listed and expected price (positive = overpriced)",
-    "fillRate": 80,
+    "fillRate": 81,
     "premium": false
   },
   {
     "name": "dealScore",
     "type": "float",
     "description": "CarGurus.com deal score (lower = better deal)",
-    "fillRate": 79,
+    "fillRate": 80,
     "premium": true
   },
   {
@@ -73,7 +73,7 @@
     "name": "mileage",
     "type": "float",
     "description": "Odometer reading in miles",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": false
   },
   {
@@ -206,7 +206,7 @@
     "name": "description",
     "type": "string",
     "description": "Full listing description text",
-    "fillRate": 97,
+    "fillRate": 98,
     "premium": false
   },
   {
@@ -262,7 +262,7 @@
     "name": "hasVehicleHistoryReport",
     "type": "bool",
     "description": "Whether vehicle history report is available",
-    "fillRate": 91,
+    "fillRate": 92,
     "premium": false
   },
   {
@@ -346,56 +346,56 @@
     "name": "sellerStreet",
     "type": "string",
     "description": "Seller street address",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": true
   },
   {
     "name": "sellerCity",
     "type": "string",
     "description": "Seller city",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": false
   },
   {
     "name": "sellerState",
     "type": "string",
     "description": "Seller state (2-letter code)",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": false
   },
   {
     "name": "sellerPostalCode",
     "type": "string",
     "description": "Seller postal code",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": false
   },
   {
     "name": "sellerCountry",
     "type": "string",
     "description": "Seller country (e.g., US)",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": false
   },
   {
     "name": "sellerLatitude",
     "type": "float",
     "description": "Seller location latitude",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": true
   },
   {
     "name": "sellerLongitude",
     "type": "float",
     "description": "Seller location longitude",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": true
   },
   {
     "name": "sellerPhone",
     "type": "string",
     "description": "Seller phone number",
-    "fillRate": 88,
+    "fillRate": 89,
     "premium": true
   },
   {
@@ -416,7 +416,7 @@
     "name": "isFranchiseDealer",
     "type": "bool",
     "description": "Whether seller is a franchise dealer",
-    "fillRate": 61,
+    "fillRate": 62,
     "premium": false
   },
   {
