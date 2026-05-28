@@ -45,21 +45,21 @@
     "name": "expectedPrice",
     "type": "float",
     "description": "Expected/fair market price in USD",
-    "fillRate": 92,
+    "fillRate": 93,
     "premium": true
   },
   {
     "name": "priceDifferential",
     "type": "float",
     "description": "Difference between listed and expected price (positive = overpriced)",
-    "fillRate": 81,
+    "fillRate": 82,
     "premium": false
   },
   {
     "name": "dealScore",
     "type": "float",
     "description": "CarGurus.com deal score (lower = better deal)",
-    "fillRate": 80,
+    "fillRate": 81,
     "premium": true
   },
   {
@@ -136,7 +136,7 @@
     "name": "interiorColor",
     "type": "string",
     "description": "Interior color",
-    "fillRate": 85,
+    "fillRate": 86,
     "premium": false
   },
   {
@@ -157,14 +157,14 @@
     "name": "engine",
     "type": "string",
     "description": "Engine description (e.g., 420 hp 3L I6)",
-    "fillRate": 99,
+    "fillRate": 98,
     "premium": false
   },
   {
     "name": "fuelType",
     "type": "string",
     "description": "Fuel type (Gasoline, Diesel, Biodiesel, Flex Fuel Vehicle, Hybrid, Electric)",
-    "fillRate": 99,
+    "fillRate": 98,
     "premium": false
   },
   {
@@ -220,14 +220,14 @@
     "name": "images",
     "type": "array",
     "description": "Array of highest resolution image URLs",
-    "fillRate": 79,
+    "fillRate": 81,
     "premium": true
   },
   {
     "name": "imagesCount",
     "type": "float",
     "description": "Number of listing images",
-    "fillRate": 79,
+    "fillRate": 81,
     "premium": false
   },
   {
@@ -248,7 +248,7 @@
     "name": "accidentCount",
     "type": "float",
     "description": "Number of accidents in vehicle history (0-5)",
-    "fillRate": 91,
+    "fillRate": 92,
     "premium": false
   },
   {
@@ -276,14 +276,14 @@
     "name": "highLeverage",
     "type": "bool",
     "description": "Whether listing is flagged as high leverage",
-    "fillRate": 22,
+    "fillRate": 24,
     "premium": false
   },
   {
     "name": "isNationwideShipper",
     "type": "bool",
     "description": "Whether dealer ships nationwide",
-    "fillRate": 19,
+    "fillRate": 20,
     "premium": false
   },
   {
@@ -430,14 +430,14 @@
     "name": "sellerRating",
     "type": "float",
     "description": "Seller average rating",
-    "fillRate": 95,
+    "fillRate": 96,
     "premium": false
   },
   {
     "name": "sellerReviewCount",
     "type": "float",
     "description": "Number of seller reviews",
-    "fillRate": 95,
+    "fillRate": 96,
     "premium": false
   },
   {
