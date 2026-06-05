@@ -164,7 +164,7 @@
     "name": "fuelType",
     "type": "string",
     "description": "Fuel type (Gasoline, Diesel, Biodiesel, Flex Fuel Vehicle, Hybrid, Electric)",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": false
   },
   {
@@ -276,7 +276,7 @@
     "name": "highLeverage",
     "type": "bool",
     "description": "Whether listing is flagged as high leverage",
-    "fillRate": 24,
+    "fillRate": 23,
     "premium": false
   },
   {
