@@ -38,7 +38,7 @@
     "name": "price",
     "type": "float",
     "description": "Listed price in USD",
-    "fillRate": 88,
+    "fillRate": 87,
     "premium": true
   },
   {
@@ -59,7 +59,7 @@
     "name": "dealScore",
     "type": "float",
     "description": "CarGurus.com deal score (lower = better deal)",
-    "fillRate": 81,
+    "fillRate": 80,
     "premium": true
   },
   {
@@ -157,7 +157,7 @@
     "name": "engine",
     "type": "string",
     "description": "Engine description (e.g., 420 hp 3L I6)",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": false
   },
   {
@@ -248,21 +248,21 @@
     "name": "accidentCount",
     "type": "float",
     "description": "Number of accidents in vehicle history (0-5)",
-    "fillRate": 92,
+    "fillRate": 90,
     "premium": false
   },
   {
     "name": "ownerCount",
     "type": "float",
     "description": "Number of previous owners (1-5)",
-    "fillRate": 89,
+    "fillRate": 88,
     "premium": false
   },
   {
     "name": "hasVehicleHistoryReport",
     "type": "bool",
     "description": "Whether vehicle history report is available",
-    "fillRate": 92,
+    "fillRate": 91,
     "premium": false
   },
   {
@@ -395,7 +395,7 @@
     "name": "sellerPhone",
     "type": "string",
     "description": "Seller phone number",
-    "fillRate": 89,
+    "fillRate": 88,
     "premium": true
   },
   {
