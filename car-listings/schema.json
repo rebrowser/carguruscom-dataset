@@ -52,7 +52,7 @@
     "name": "priceDifferential",
     "type": "float",
     "description": "Difference between listed and expected price (positive = overpriced)",
-    "fillRate": 82,
+    "fillRate": 81,
     "premium": false
   },
   {
@@ -248,21 +248,21 @@
     "name": "accidentCount",
     "type": "float",
     "description": "Number of accidents in vehicle history (0-5)",
-    "fillRate": 90,
+    "fillRate": 89,
     "premium": false
   },
   {
     "name": "ownerCount",
     "type": "float",
     "description": "Number of previous owners (1-5)",
-    "fillRate": 88,
+    "fillRate": 87,
     "premium": false
   },
   {
     "name": "hasVehicleHistoryReport",
     "type": "bool",
     "description": "Whether vehicle history report is available",
-    "fillRate": 91,
+    "fillRate": 90,
     "premium": false
   },
   {
@@ -395,7 +395,7 @@
     "name": "sellerPhone",
     "type": "string",
     "description": "Seller phone number",
-    "fillRate": 88,
+    "fillRate": 89,
     "premium": true
   },
   {
