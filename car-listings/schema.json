@@ -416,7 +416,7 @@
     "name": "isFranchiseDealer",
     "type": "bool",
     "description": "Whether seller is a franchise dealer",
-    "fillRate": 62,
+    "fillRate": 63,
     "premium": false
   },
   {
