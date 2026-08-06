@@ -255,14 +255,14 @@
     "name": "ownerCount",
     "type": "float",
     "description": "Number of previous owners (1-5)",
-    "fillRate": 87,
+    "fillRate": 86,
     "premium": false
   },
   {
     "name": "hasVehicleHistoryReport",
     "type": "bool",
     "description": "Whether vehicle history report is available",
-    "fillRate": 90,
+    "fillRate": 89,
     "premium": false
   },
   {
