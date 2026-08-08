@@ -276,7 +276,7 @@
     "name": "highLeverage",
     "type": "bool",
     "description": "Whether listing is flagged as high leverage",
-    "fillRate": 23,
+    "fillRate": 22,
     "premium": false
   },
   {
@@ -402,7 +402,7 @@
     "name": "sellerPhoneSMS",
     "type": "string",
     "description": "Seller SMS phone number",
-    "fillRate": 87,
+    "fillRate": 86,
     "premium": true
   },
   {
