@@ -38,7 +38,7 @@
     "name": "price",
     "type": "float",
     "description": "Listed price in USD",
-    "fillRate": 87,
+    "fillRate": 86,
     "premium": true
   },
   {
@@ -402,7 +402,7 @@
     "name": "sellerPhoneSMS",
     "type": "string",
     "description": "Seller SMS phone number",
-    "fillRate": 86,
+    "fillRate": 87,
     "premium": true
   },
   {
