@@ -59,7 +59,7 @@
     "name": "dealScore",
     "type": "float",
     "description": "CarGurus.com deal score (lower = better deal)",
-    "fillRate": 79,
+    "fillRate": 78,
     "premium": true
   },
   {
@@ -262,7 +262,7 @@
     "name": "hasVehicleHistoryReport",
     "type": "bool",
     "description": "Whether vehicle history report is available",
-    "fillRate": 89,
+    "fillRate": 90,
     "premium": false
   },
   {
