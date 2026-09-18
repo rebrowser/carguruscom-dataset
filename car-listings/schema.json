@@ -248,7 +248,7 @@
     "name": "accidentCount",
     "type": "float",
     "description": "Number of accidents in vehicle history (0-5)",
-    "fillRate": 89,
+    "fillRate": 90,
     "premium": false
   },
   {
