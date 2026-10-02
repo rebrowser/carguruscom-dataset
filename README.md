@@ -1,6 +1,6 @@
 # CarGurus.com US Vehicle Listings Dataset
 
-![Updated](https://img.shields.io/badge/updated-2026--10--01-brightgreen?style=flat-square)&nbsp;![Records](https://img.shields.io/badge/records-13.0M-blue?style=flat-square)&nbsp;[![Rebrowser](https://img.shields.io/badge/full%20dataset-rebrowser.net-orange?style=flat-square)](https://rebrowser.net/products/datasets/carguruscom)
+![Updated](https://img.shields.io/badge/updated-2026--10--02-brightgreen?style=flat-square)&nbsp;![Records](https://img.shields.io/badge/records-13.2M-blue?style=flat-square)&nbsp;[![Rebrowser](https://img.shields.io/badge/full%20dataset-rebrowser.net-orange?style=flat-square)](https://rebrowser.net/products/datasets/carguruscom)
 
 Daily sample of U.S. used car listings from CarGurus.com with deal ratings, vehicle specs, mileage, dealer info, and market positioning data.
 
@@ -21,7 +21,7 @@ Sample of U.S. CarGurus.com vehicle listings with deal ratings, specs, mileage, 
 
 
 
-> **13,038,533** total records from 2025-12-07 to 2026-09-27, **up to 30,000** rows in this sample (0.23% of full dataset).
+> **13,154,956** total records from 2025-12-07 to 2026-09-27, **up to 30,000** rows in this sample (0.23% of full dataset).
 > Exported as one file per day, up to 1,000 rows each, last 30 days retained.
 
 ![Data Growth](car-listings/chart-growth.svg)
@@ -108,13 +108,13 @@ Sample of U.S. CarGurus.com vehicle listings with deal ratings, specs, mileage, 
 
 | Value | Count | Share |
 | --- | --- | --- |
-| FAIR_PRICE | 3,816,082 | `██████░░░░░░░░░░░░░░` 29.3% |
-| NA | 2,753,943 | `████░░░░░░░░░░░░░░░░` 21.1% |
-| GOOD_PRICE | 2,669,256 | `████░░░░░░░░░░░░░░░░` 20.5% |
-| GREAT_PRICE | 1,612,607 | `██░░░░░░░░░░░░░░░░░░` 12.4% |
-| POOR_PRICE | 1,289,190 | `██░░░░░░░░░░░░░░░░░░` 9.9% |
-| OVERPRICED | 766,493 | `█░░░░░░░░░░░░░░░░░░░` 5.9% |
-| OUTLIER | 130,962 | `░░░░░░░░░░░░░░░░░░░░` 1.0% |
+| FAIR_PRICE | 3,845,241 | `██████░░░░░░░░░░░░░░` 29.2% |
+| NA | 2,787,038 | `████░░░░░░░░░░░░░░░░` 21.2% |
+| GOOD_PRICE | 2,692,487 | `████░░░░░░░░░░░░░░░░` 20.5% |
+| GREAT_PRICE | 1,627,700 | `██░░░░░░░░░░░░░░░░░░` 12.4% |
+| POOR_PRICE | 1,300,017 | `██░░░░░░░░░░░░░░░░░░` 9.9% |
+| OVERPRICED | 770,402 | `█░░░░░░░░░░░░░░░░░░░` 5.9% |
+| OUTLIER | 132,071 | `░░░░░░░░░░░░░░░░░░░░` 1.0% |
 
 </details>
 
@@ -125,16 +125,16 @@ Sample of U.S. CarGurus.com vehicle listings with deal ratings, specs, mileage, 
 
 | Value | Count | Share |
 | --- | --- | --- |
-| crossover | 4,512,230 | `███████░░░░░░░░░░░░░` 34.7% |
-| sedan | 2,642,398 | `████░░░░░░░░░░░░░░░░` 20.3% |
-| pickup_truck | 2,321,300 | `████░░░░░░░░░░░░░░░░` 17.8% |
-| suv | 2,161,103 | `███░░░░░░░░░░░░░░░░░` 16.6% |
-| coupe | 355,171 | `█░░░░░░░░░░░░░░░░░░░` 2.7% |
-| minivan | 278,495 | `░░░░░░░░░░░░░░░░░░░░` 2.1% |
-| hatchback | 273,065 | `░░░░░░░░░░░░░░░░░░░░` 2.1% |
-| van | 183,050 | `░░░░░░░░░░░░░░░░░░░░` 1.4% |
-| convertible | 156,381 | `░░░░░░░░░░░░░░░░░░░░` 1.2% |
-| wagon | 128,405 | `░░░░░░░░░░░░░░░░░░░░` 1.0% |
+| crossover | 4,552,848 | `███████░░░░░░░░░░░░░` 34.7% |
+| sedan | 2,664,487 | `████░░░░░░░░░░░░░░░░` 20.3% |
+| pickup_truck | 2,342,264 | `████░░░░░░░░░░░░░░░░` 17.8% |
+| suv | 2,181,449 | `███░░░░░░░░░░░░░░░░░` 16.6% |
+| coupe | 358,133 | `█░░░░░░░░░░░░░░░░░░░` 2.7% |
+| minivan | 281,346 | `░░░░░░░░░░░░░░░░░░░░` 2.1% |
+| hatchback | 275,639 | `░░░░░░░░░░░░░░░░░░░░` 2.1% |
+| van | 184,591 | `░░░░░░░░░░░░░░░░░░░░` 1.4% |
+| convertible | 157,598 | `░░░░░░░░░░░░░░░░░░░░` 1.2% |
+| wagon | 129,497 | `░░░░░░░░░░░░░░░░░░░░` 1.0% |
 
 </details>
 
@@ -145,14 +145,14 @@ Sample of U.S. CarGurus.com vehicle listings with deal ratings, specs, mileage, 
 
 | Value | Count | Share |
 | --- | --- | --- |
-| Gasoline | 10,928,903 | `█████████████████░░░` 84.9% |
-| Hybrid | 688,501 | `█░░░░░░░░░░░░░░░░░░░` 5.3% |
-| Flex Fuel Vehicle | 515,062 | `█░░░░░░░░░░░░░░░░░░░` 4.0% |
-| Electric | 320,428 | `░░░░░░░░░░░░░░░░░░░░` 2.5% |
-| Diesel | 218,581 | `░░░░░░░░░░░░░░░░░░░░` 1.7% |
-| Biodiesel | 197,964 | `░░░░░░░░░░░░░░░░░░░░` 1.5% |
-| Fuel Cell | 1,341 | `░░░░░░░░░░░░░░░░░░░░` 0.0% |
-| Compressed Natural Gas | 422 | `░░░░░░░░░░░░░░░░░░░░` 0.0% |
+| Gasoline | 11,025,031 | `█████████████████░░░` 84.9% |
+| Hybrid | 695,602 | `█░░░░░░░░░░░░░░░░░░░` 5.4% |
+| Flex Fuel Vehicle | 519,313 | `█░░░░░░░░░░░░░░░░░░░` 4.0% |
+| Electric | 324,114 | `░░░░░░░░░░░░░░░░░░░░` 2.5% |
+| Diesel | 220,504 | `░░░░░░░░░░░░░░░░░░░░` 1.7% |
+| Biodiesel | 200,035 | `░░░░░░░░░░░░░░░░░░░░` 1.5% |
+| Fuel Cell | 1,346 | `░░░░░░░░░░░░░░░░░░░░` 0.0% |
+| Compressed Natural Gas | 425 | `░░░░░░░░░░░░░░░░░░░░` 0.0% |
 | Propane | 10 | `░░░░░░░░░░░░░░░░░░░░` 0.0% |
 
 </details>
@@ -164,9 +164,9 @@ Sample of U.S. CarGurus.com vehicle listings with deal ratings, specs, mileage, 
 
 | Value | Count | Share |
 | --- | --- | --- |
-| USED | 12,041,037 | `██████████████████░░` 92.3% |
-| CPO | 997,094 | `██░░░░░░░░░░░░░░░░░░` 7.6% |
-| NEW | 402 | `░░░░░░░░░░░░░░░░░░░░` 0.0% |
+| USED | 12,149,286 | `██████████████████░░` 92.4% |
+| CPO | 1,005,281 | `██░░░░░░░░░░░░░░░░░░` 7.6% |
+| NEW | 389 | `░░░░░░░░░░░░░░░░░░░░` 0.0% |
 
 </details>
 
@@ -177,16 +177,16 @@ Sample of U.S. CarGurus.com vehicle listings with deal ratings, specs, mileage, 
 
 | Value | Count | Share |
 | --- | --- | --- |
-| TX | 1,344,662 | `████░░░░░░░░░░░░░░░░` 19.7% |
-| CA | 1,159,753 | `███░░░░░░░░░░░░░░░░░` 17.0% |
-| FL | 1,041,033 | `███░░░░░░░░░░░░░░░░░` 15.2% |
-| OH | 528,221 | `██░░░░░░░░░░░░░░░░░░` 7.7% |
-| IL | 513,578 | `██░░░░░░░░░░░░░░░░░░` 7.5% |
-| NC | 501,813 | `█░░░░░░░░░░░░░░░░░░░` 7.3% |
-| GA | 478,720 | `█░░░░░░░░░░░░░░░░░░░` 7.0% |
-| PA | 454,594 | `█░░░░░░░░░░░░░░░░░░░` 6.6% |
-| NY | 413,486 | `█░░░░░░░░░░░░░░░░░░░` 6.0% |
-| VA | 404,551 | `█░░░░░░░░░░░░░░░░░░░` 5.9% |
+| TX | 1,357,429 | `████░░░░░░░░░░░░░░░░` 19.7% |
+| CA | 1,169,094 | `███░░░░░░░░░░░░░░░░░` 16.9% |
+| FL | 1,050,067 | `███░░░░░░░░░░░░░░░░░` 15.2% |
+| OH | 532,831 | `██░░░░░░░░░░░░░░░░░░` 7.7% |
+| IL | 518,652 | `██░░░░░░░░░░░░░░░░░░` 7.5% |
+| NC | 506,443 | `█░░░░░░░░░░░░░░░░░░░` 7.3% |
+| GA | 482,941 | `█░░░░░░░░░░░░░░░░░░░` 7.0% |
+| PA | 458,868 | `█░░░░░░░░░░░░░░░░░░░` 6.6% |
+| NY | 418,006 | `█░░░░░░░░░░░░░░░░░░░` 6.1% |
+| VA | 407,685 | `█░░░░░░░░░░░░░░░░░░░` 5.9% |
 
 </details>
 
@@ -205,23 +205,23 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 ### Car Listings
 
 
-[Great Deal Rated Listings](https://rebrowser.net/products/datasets/carguruscom/car-listings/views/great-deal-listings) — 1,566,100 records
+[Great Deal Rated Listings](https://rebrowser.net/products/datasets/carguruscom/car-listings/views/great-deal-listings) — 1,580,526 records
 
 ↳ `[{"field":"dealRatingKey","op":"is","value":"GREAT_PRICE"},{"sort":"price ASC"}]`
 
-[Used Vehicle Listings](https://rebrowser.net/products/datasets/carguruscom/car-listings/views/used-vehicle-listings) — 11,454,582 records
+[Used Vehicle Listings](https://rebrowser.net/products/datasets/carguruscom/car-listings/views/used-vehicle-listings) — 11,524,833 records
 
 ↳ `[{"field":"vehicleCondition","op":"is","value":"USED"},{"sort":"_lastSeenAt DESC"}]`
 
-[Certified Pre-Owned Listings](https://rebrowser.net/products/datasets/carguruscom/car-listings/views/cpo-certified-listings) — 975,361 records
+[Certified Pre-Owned Listings](https://rebrowser.net/products/datasets/carguruscom/car-listings/views/cpo-certified-listings) — 982,142 records
 
 ↳ `[{"field":"vehicleCondition","op":"is","value":"CPO"},{"sort":"_lastSeenAt DESC"}]`
 
-[Listings with Vehicle History Reports](https://rebrowser.net/products/datasets/carguruscom/car-listings/views/listings-with-vehicle-history) — 11,181,103 records
+[Listings with Vehicle History Reports](https://rebrowser.net/products/datasets/carguruscom/car-listings/views/listings-with-vehicle-history) — 11,280,240 records
 
 ↳ `[{"field":"hasVehicleHistoryReport","op":"isTrue"},{"sort":"_lastSeenAt DESC"}]`
 
-[Nationwide Shipping Listings](https://rebrowser.net/products/datasets/carguruscom/car-listings/views/nationwide-shipping-listings) — 2,442,456 records
+[Nationwide Shipping Listings](https://rebrowser.net/products/datasets/carguruscom/car-listings/views/nationwide-shipping-listings) — 2,464,642 records
 
 ↳ `[{"field":"isNationwideShipper","op":"isTrue"},{"sort":"_lastSeenAt DESC"}]`
 
