@@ -63,14 +63,14 @@
           rx="1" fill="#22c55eb3" />
   <rect x="779" y="180" width="28" height="60"
           rx="1" fill="#22c55eb3" />
-  <rect x="809" y="210" width="28" height="30"
+  <rect x="809" y="194" width="28" height="46"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="73,240 103,234 133,234 163,234 193,234 223,234 253,208 283,193 313,185 343,177 373,170 403,160 433,153 463,146 493,136 523,129 553,118 583,110 613,103 643,93 673,89 703,81 733,72 763,64 793,54 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="73,240 103,234 133,234 163,234 193,234 223,234 253,209 283,194 313,185 343,178 373,171 403,161 433,154 463,147 493,137 523,130 553,120 583,112 613,105 643,95 673,91 703,83 733,74 763,66 793,57 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
-           >13M</text>
+           >14M</text>
   <text x="52" y="149" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
            >10M</text>
