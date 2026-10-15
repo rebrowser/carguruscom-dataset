@@ -262,7 +262,7 @@
     "name": "hasVehicleHistoryReport",
     "type": "bool",
     "description": "Whether vehicle history report is available",
-    "fillRate": 90,
+    "fillRate": 91,
     "premium": false
   },
   {
