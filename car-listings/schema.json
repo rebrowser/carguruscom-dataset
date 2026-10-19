@@ -52,7 +52,7 @@
     "name": "priceDifferential",
     "type": "float",
     "description": "Difference between listed and expected price (positive = overpriced)",
-    "fillRate": 81,
+    "fillRate": 80,
     "premium": false
   },
   {
