@@ -430,14 +430,14 @@
     "name": "sellerRating",
     "type": "float",
     "description": "Seller average rating",
-    "fillRate": 96,
+    "fillRate": 97,
     "premium": false
   },
   {
     "name": "sellerReviewCount",
     "type": "float",
     "description": "Number of seller reviews",
-    "fillRate": 96,
+    "fillRate": 97,
     "premium": false
   },
   {
