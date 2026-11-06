@@ -276,7 +276,7 @@
     "name": "highLeverage",
     "type": "bool",
     "description": "Whether listing is flagged as high leverage",
-    "fillRate": 21,
+    "fillRate": 22,
     "premium": false
   },
   {
@@ -416,7 +416,7 @@
     "name": "isFranchiseDealer",
     "type": "bool",
     "description": "Whether seller is a franchise dealer",
-    "fillRate": 63,
+    "fillRate": 64,
     "premium": false
   },
   {
