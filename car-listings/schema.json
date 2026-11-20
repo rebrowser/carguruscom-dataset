@@ -38,7 +38,7 @@
     "name": "price",
     "type": "float",
     "description": "Listed price in USD",
-    "fillRate": 86,
+    "fillRate": 85,
     "premium": true
   },
   {
